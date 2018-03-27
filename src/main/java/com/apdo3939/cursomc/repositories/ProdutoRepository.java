@@ -9,3 +9,6 @@ import com.apdo3939.cursomc.domain.Produto;
 public interface ProdutoRepository extends JpaRepository<Produto, Integer>{
 
 }
+
+
+
